@@ -1,4 +1,4 @@
-# JarielFox Music Deck
+# Firefox Music Deck
 
 A lightweight Firefox extension for controlling YouTube Music without constantly switching back to the YouTube Music tab.
 
